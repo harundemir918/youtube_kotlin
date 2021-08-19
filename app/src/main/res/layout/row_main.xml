@@ -31,9 +31,9 @@
 
         <TextView
             android:id="@+id/textView_video_title"
-            android:layout_width="325dp"
+            android:layout_width="275dp"
             android:layout_height="wrap_content"
-            android:text="Name"
+            android:text="Video Title"
             android:textColor="@color/black"
             android:textStyle="bold"
             app:layout_constraintTop_toTopOf="@id/imageView_channel_profile"
@@ -44,7 +44,8 @@
             android:id="@+id/textView_channel_title"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Name"
+            android:text="Channel Title"
+            android:textSize="12sp"
             app:layout_constraintTop_toBottomOf="@id/textView_video_title"
             app:layout_constraintBottom_toBottomOf="@id/imageView_channel_profile"
             app:layout_constraintLeft_toLeftOf="@id/textView_video_title"
