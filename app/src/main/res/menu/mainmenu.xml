@@ -2,8 +2,8 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item android:id="@+id/tv_play"
-        android:title="TV Play"
-        android:icon="@drawable/ic_baseline_tap_and_play_24"
+        android:title="Cast"
+        android:icon="@drawable/ic_baseline_cast_24"
         app:showAsAction="always"/>
 
     <item android:id="@+id/notifications"
