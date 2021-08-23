@@ -8,6 +8,8 @@
         <entry key="app/src/main/res/drawable/ic_outline_video_library_24.xml" value="0.2518518518518518" />
         <entry key="app/src/main/res/drawable/library_icon.xml" value="0.2518518518518518" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/add_modal_bottom_sheet.xml" value="0.5630026809651475" />
+        <entry key="app/src/main/res/layout/fragment_add_bottom_sheet_dialog.xml" value="0.3268365817091454" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.33" />
         <entry key="app/src/main/res/layout/fragment_library.xml" value="0.15678824721377912" />
         <entry key="app/src/main/res/layout/nested_scroll_view.xml" value="0.15678824721377912" />
